@@ -1,0 +1,8 @@
+ul li{
+    margin-top: 15px;
+    list-style-type: none;
+    border-bottom: 1px solid #ccc;
+}
+ul li img{
+    margin-right:10px;
+}
